@@ -32,3 +32,20 @@ for fruit in ['apple','banana','orange']:
     print('I ate ' + fruit)
 else:
     print('I ate all')
+
+
+# dictionaryのfor処理
+
+d = {'x':100, 'y':200}
+
+# キーだけ表示
+for k in d:
+    print(k)
+
+# キーと値両方表示
+for k, v in d.items():
+    print(k,':',v)
+
+# dict_items [('x', 100), ('y', 200)]
+print(d.items())
+
