@@ -10,6 +10,7 @@ print("hello, \nhow are you?")
 
 print('C:\\name\\name')
 print(r'C:\name\name')
+print(r'^api-auth/')
 
 # 改行を入れてくれる
 print("############")
@@ -62,3 +63,5 @@ print(word)
 print(word[:]) # コピー
 n = len(word)
 print(n)
+
+print('a' in 'aabb')

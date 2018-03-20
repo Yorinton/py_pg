@@ -27,3 +27,12 @@ x = '####'.join(to_split_2) # 指定した文字でlistの要素を結合する
 print(x)
 
 # print(help(list)) # listのマニュアル
+
+term = []
+all_term = []
+all_term.append(term)
+term = []
+term.append('aaaaaa')
+
+print(all_term)
+
