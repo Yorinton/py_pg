@@ -37,3 +37,23 @@ x = [1,2,3,4,5]
 y = [6,7,8,9,10]
 x.extend(y)
 print(x)
+
+
+# リスト内包表記
+l = ['aaa', ' bbb', 'ccc\nccc', ' ', '', '  ddd  ']
+for p in l:
+    # if(p.strip()):
+    #     print('strip出来る', p.strip())
+    # else:
+    #     print('strip出来ない', p.strip(),p)
+    print(p.strip())
+
+# new_lists = [p.strip() for p in l if p.strip()]
+# print(new_lists)
+
+l = ['##' + x.strip() + '##' for x in l if x.strip()]
+print(l)
+
+l = [0] * 0
+print(l)
+
