@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="543ad74d-59fa-4afa-8d7e-7fc5cbabeea8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/closure.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/decolator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dictionary_inner.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generator.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/inner_function.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lambda.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/list_inner.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docstrings.py" afterPath="$PROJECT_DIR$/docstrings.py" />
-      <change beforePath="$PROJECT_DIR$/list.py" afterPath="$PROJECT_DIR$/list.py" />
+      <change beforePath="$PROJECT_DIR$/dictionary_inner.py" afterPath="$PROJECT_DIR$/dictionary_inner.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/py_pg$go.coverage" NAME="go Coverage Results" MODIFIED="1521735835432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py_pg$go.coverage" NAME="go Coverage Results" MODIFIED="1521736318418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -85,8 +76,8 @@
       <file leaf-file-name="list_inner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list_inner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="140">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -95,8 +86,18 @@
       <file leaf-file-name="dictionary_inner.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dictionary_inner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -631,14 +632,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inner_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -687,18 +680,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/list_inner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="140">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dictionary_inner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
         </state>
       </provider>
