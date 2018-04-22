@@ -17,3 +17,5 @@ print(d)
 
 # リスト内包表記(参照)
 # r2 = [i for i in t if i % 2 == 1]
+l = [x for x in zip(w,f)]
+print(l)
